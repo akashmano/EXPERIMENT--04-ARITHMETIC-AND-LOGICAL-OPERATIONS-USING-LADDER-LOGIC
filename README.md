@@ -2,7 +2,7 @@
 #  NAME: AKASH M
 # REGISTER NUMBER: 212223240003
 # DEPARTMENT: AIML
-# YEAR: 1
+# YEAR: 2ND
 ## Aim:
 To understand and implement various arithmetic and logical operations in Programmable Logic Controller (PLC) ladder logic.
 
